@@ -22,7 +22,7 @@ class KropBot:
         if GROQ_AVAILABLE:
             # Your API key
             try:
-                self.client = Groq(api_key="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")
+                self.client = Groq(api_key="grok_key")
             except Exception as e:
                 print(f"Error initializing Groq client: {e}")
                 self.client = None
