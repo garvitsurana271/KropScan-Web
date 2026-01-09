@@ -1,0 +1,49 @@
+{
+  "global_room": {
+    "id": 1,
+    "name": "Test Room",
+    "description": "A test chat room",
+    "created_at": "2025-12-28 01:39:16",
+    "members": [
+      "a498692b-4e16-4ac1-bb68-1a1d4b07dec3",
+      "3777f477-abe3-48a8-a2c8-7697039c4628",
+      "53e18750-ed6d-479c-9498-1b06ac3f82ac",
+      "0a3f2a29-92ec-48bc-9c6c-e836e4a17461"
+    ],
+    "messages": [
+      {
+        "id": 1,
+        "user_id": "a498692b-4e16-4ac1-bb68-1a1d4b07dec3",
+        "user_name": "Unknown User",
+        "message": "Hello, this is a test message!",
+        "timestamp": "2025-12-28 01:39:16",
+        "reactions": []
+      },
+      {
+        "id": 2,
+        "user_id": "53e18750-ed6d-479c-9498-1b06ac3f82ac",
+        "user_name": "Unknown User",
+        "message": "Hello, this is a test message in global chat!",
+        "timestamp": "2025-12-28 02:52:57",
+        "reactions": []
+      },
+      {
+        "id": 3,
+        "user_id": "0a3f2a29-92ec-48bc-9c6c-e836e4a17461",
+        "user_name": "Unknown User",
+        "message": "Hello, this is a test message in global chat!",
+        "timestamp": "2025-12-28 03:04:34",
+        "reactions": []
+      },
+      {
+        "id": 4,
+        "user_id": "3777f477-abe3-48a8-a2c8-7697039c4628",
+        "user_name": "John Doe",
+        "message": "hi",
+        "timestamp": "2025-12-28 11:44:21",
+        "reactions": []
+      }
+    ],
+    "is_public": true
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "e391be83-abb6-4ea2-b29f-99ee8d22ccd5": {
+    "user_id": "e391be83-abb6-4ea2-b29f-99ee8d22ccd5",
+    "name": "Test User",
+    "phone": "1234567890",
+    "location": "Test Location",
+    "farm_size": 2.0,
+    "registration_date": "2025-12-28T01:38:23.988860",
+    "treatment_history": [],
+    "notifications": [],
+    "email": "test@example.com",
+    "password": "70ef598d481a004d3abe3a2944fc576d5977f1eb4fcde601376d18ff640fa772b9538856038196f37589169e662dda44",
+    "created_at": "2025-12-28T01:38:23.988860",
+    "last_login": null,
+    "preferences": {
+      "theme": "default",
+      "language": "en",
+      "notifications_enabled": true
+    }
+  },
+  "a498692b-4e16-4ac1-bb68-1a1d4b07dec3": {
+    "user_id": "a498692b-4e16-4ac1-bb68-1a1d4b07dec3",
+    "name": "Chat Test User",
+    "phone": "0987654321",
+    "location": "Test Location",
+    "farm_size": 1.5,
+    "registration_date": "2025-12-28T01:39:16.688871",
+    "treatment_history": [],
+    "notifications": []
+  },
+  "b3ab058a-c01c-47bc-aa04-0d7ab0bf1362": {
+    "user_id": "b3ab058a-c01c-47bc-aa04-0d7ab0bf1362",
+    "name": "Updated Test User",
+    "phone": "1122334455",
+    "location": "Updated Location",
+    "farm_size": 3.0,
+    "registration_date": "2025-12-28T01:39:16.702373",
+    "treatment_history": [
+      {
+        "disease": "Test Disease",
+        "treatment": "Test Treatment",
+        "confidence": 0.95,
+        "date": "2023-12-28",
+        "timestamp": "2025-12-28T01:39:16.703391"
+      }
+    ],
+    "notifications": []
+  },
+  "c30557fd-e4a2-476a-999e-63ef594b3f0d": {
+    "user_id": "c30557fd-e4a2-476a-999e-63ef594b3f0d",
+    "name": "Chat Test User",
+    "phone": "0987654321",
+    "location": "Test Location",
+    "farm_size": 1.5,
+    "registration_date": "2025-12-28T01:39:30.085603",
+    "treatment_history": [],
+    "notifications": []
+  },
+  "ee13d575-059c-4b92-b7ff-823acef421f2": {
+    "user_id": "ee13d575-059c-4b92-b7ff-823acef421f2",
+    "name": "Updated Test User",
+    "phone": "1122334455",
+    "location": "Updated Location",
+    "farm_size": 3.0,
+    "registration_date": "2025-12-28T01:39:30.094083",
+    "treatment_history": [
+      {
+        "disease": "Test Disease",
+        "treatment": "Test Treatment",
+        "confidence": 0.95,
+        "date": "2023-12-28",
+        "timestamp": "2025-12-28T01:39:30.094083"
+      }
+    ],
+    "notifications": []
+  },
+  "c2e5652f-8ead-45d7-ae74-41c113d494b7": {
+    "user_id": "c2e5652f-8ead-45d7-ae74-41c113d494b7",
+    "name": "Test User",
+    "phone": "1234567890",
+    "location": "Test Location",
+    "farm_size": 2.0,
+    "registration_date": "2025-12-28T01:39:48.527673",
+    "treatment_history": [],
+    "notifications": [],
+    "email": "test_1766866188@example.com",
+    "password": "59067e37fc3105c5ac49306a6bc7db62a76c735ac3f846cbc08a233100ac3a247e0848faae70cee0c08aedc29350620a",
+    "created_at": "2025-12-28T01:39:48.530153",
+    "last_login": "2025-12-28T01:39:48.573145",
+    "preferences": {
+      "theme": "default",
+      "language": "en",
+      "notifications_enabled": true
+    }
+  },
+  "83219e7c-a367-41ad-8615-0ed9ffd6bd6c": {
+    "user_id": "83219e7c-a367-41ad-8615-0ed9ffd6bd6c",
+    "name": "Chat Test User",
+    "phone": "0987654321",
+    "location": "Test Location",
+    "farm_size": 1.5,
+    "registration_date": "2025-12-28T01:39:48.594493",
+    "treatment_history": [],
+    "notifications": []
+  },
+  "f3ae1d44-1600-442d-975f-42e72b0fb3f1": {
+    "user_id": "f3ae1d44-1600-442d-975f-42e72b0fb3f1",
+    "name": "Updated Test User",
+    "phone": "1122334455",
+    "location": "Updated Location",
+    "farm_size": 3.0,
+    "registration_date": "2025-12-28T01:39:48.603205",
+    "treatment_history": [
+      {
+        "disease": "Test Disease",
+        "treatment": "Test Treatment",
+        "confidence": 0.95,
+        "date": "2023-12-28",
+        "timestamp": "2025-12-28T01:39:48.610996"
+      }
+    ],
+    "notifications": []
+  },
+  "3777f477-abe3-48a8-a2c8-7697039c4628": {
+    "user_id": "3777f477-abe3-48a8-a2c8-7697039c4628",
+    "name": "John Doe",
+    "phone": "+91123456789",
+    "location": "Assam",
+    "farm_size": 1.0,
+    "registration_date": "2025-12-28T01:53:17.563739",
+    "treatment_history": [],
+    "notifications": [],
+    "email": "your@email.com",
+    "password": "3ba67c660306af8a6f67e56543782f38d56e45e12c3306d6a9f219f5c9ee1f7a62420926fd0b6881ffe87145643e125e",
+    "created_at": "2025-12-28T01:53:17.565771",
+    "last_login": "2026-01-10T01:06:09.936342",
+    "preferences": {
+      "theme": "dark",
+      "language": "en",
+      "notifications_enabled": true,
+      "show_weather": true
+    },
+    "is_admin": false
+  },
+  "107f74f6-2345-43cc-812c-431b97ce0286": {
+    "user_id": "107f74f6-2345-43cc-812c-431b97ce0286",
+    "name": "Admin User",
+    "phone": "9999999999",
+    "location": "KropScan Admin",
+    "farm_size": 0.0,
+    "registration_date": "2025-12-28T02:44:34.542787",
+    "treatment_history": [],
+    "notifications": [],
+    "email": "admin@kropscan.ai",
+    "password": "64c645d0d86f096488d2e1d7046f70c9b0d88d123c024bd477909fcd690b3ab132da6e6370d8b69b421be48fdc082f3d",
+    "is_admin": true,
+    "created_at": "2025-12-28T02:44:34.577044",
+    "last_login": "2025-12-28T03:04:34.548528",
+    "preferences": {
+      "theme": "default",
+      "language": "en",
+      "notifications_enabled": true
+    }
+  },
+  "53e18750-ed6d-479c-9498-1b06ac3f82ac": {
+    "user_id": "53e18750-ed6d-479c-9498-1b06ac3f82ac",
+    "name": "Chat Test User",
+    "phone": "0987654321",
+    "location": "Test Location",
+    "farm_size": 1.5,
+    "registration_date": "2025-12-28T02:52:57.619356",
+    "treatment_history": [],
+    "notifications": []
+  },
+  "0a3f2a29-92ec-48bc-9c6c-e836e4a17461": {
+    "user_id": "0a3f2a29-92ec-48bc-9c6c-e836e4a17461",
+    "name": "Chat Test User",
+    "phone": "0987654321",
+    "location": "Test Location",
+    "farm_size": 1.5,
+    "registration_date": "2025-12-28T03:04:34.568185",
+    "treatment_history": [],
+    "notifications": []
+  }
+}
